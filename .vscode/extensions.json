@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "antfu.open-in-github-button",
+    "antfu.smart-clicks",
+    "antfu.where-am-i",
+    "dbaeumer.vscode-eslint",
+    "ddiu8081.moegi-theme",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "naumovs.color-highlight",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "Vue.volar"
+  ]
+}
